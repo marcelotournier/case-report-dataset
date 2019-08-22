@@ -6,4 +6,4 @@ Date of extraction: 22th of August, 2019.
 
 See used search parameters below:
 
-![alt text](http://simplpost.com/images/sample1.jpg) 
+![alt text](https://github.com/marcelotournier/case-report-dataset/raw/master/parameters.png) 
