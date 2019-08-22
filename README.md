@@ -1,6 +1,6 @@
 # case-report-dataset
 
-XML Dataset with more than 200,000 Abstracts of case report articles from Pubmed.
+XML Dataset with more than 200,000 Abstracts of case report articles from [Pubmed](https://pubmed.gov/).
 
 Date of extraction: 22th of August, 2019.
 
