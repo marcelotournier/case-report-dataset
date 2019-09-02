@@ -10,4 +10,6 @@ See used search parameters below:
 
 To unzip using terminal: `cat data.z* > joined.zip && unzip joined.zip`
 
-Known issues: You can see warnings when unzipping the concatenated file. You can safely ignore them
+md5 hash for the `pubmed_result.xml`, when unzipped: `53ec9a259c049142690f0d20fcd1f551`
+
+Known issues: You can see warnings when unzipping the concatenated file. You can safely ignore them, if the file pass a md5 check.
